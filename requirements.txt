@@ -1,0 +1,7 @@
+Flask
+faster-whisper
+sounddevice
+opencv-python
+wavio
+b2sdk
+psycopg2-binary
